@@ -34,5 +34,3 @@ python web_server.py --port 7100
 - 网页版协议可能随时更新，需要持续维护
 - 仅供学习
 - 请求头中的 `x-msh-device-id` 是硬编码的，可能需要从 token 中动态提取
-
-**需要我帮你测试 web_server.py 的实际连通性，或者进一步完善历史对话支持吗？**
